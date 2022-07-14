@@ -1,0 +1,24 @@
+.footer-container {
+    background-color: rgb(14 30 48);
+    color: white;
+}
+.footer-list {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.footer-list a {
+    text-decoration: none;
+    color: white;
+}
+.footer-contact h6, p {
+ margin: 0px;
+ padding: 0px;
+}
+.footer-languages {
+    padding: 0px;
+}
+.laguages {
+    display: flex;
+    justify-content: space-around;
+}

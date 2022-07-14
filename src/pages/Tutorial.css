@@ -1,0 +1,15 @@
+.padding-horizental {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+.side-menu {
+    max-width: 20% !important;
+}
+.side-menu .list-group-item a {
+    text-decoration: none;
+}
+pre {
+    background: #484242;
+    color: aliceblue;
+    padding: 2%;
+}
